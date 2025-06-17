@@ -6,7 +6,7 @@ export const INITIAL_WORKFLOW_DATA: WorkflowData = {
   phases: [
     {
       id: "fase1",
-      title: "Fase 1: Iniciação e Descoberta",
+      title: "Fase 1: Definição",
       description: "Esta fase foca no reconhecimento de necessidades, definição inicial do problema, análise de viabilidade e identificação dos principais interessados.",
       activities: [
         {
