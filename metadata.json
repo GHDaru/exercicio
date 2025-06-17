@@ -1,0 +1,6 @@
+{
+  "name": "Software Engineering Workflow Visualizer",
+  "description": "An application to visualize the phases, activities, and deliverables of a typical software engineering workflow, from idea to technical specification.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
