@@ -2,7 +2,7 @@
 import { WorkflowData } from './types';
 
 export const INITIAL_WORKFLOW_DATA: WorkflowData = {
-  mainTitle: "Workflow de Engenharia de Software: Da Ideia à Especificação Técnica",
+  mainTitle: "Engenharia de Software: Da Ideia à Especificação Técnica",
   phases: [
     {
       id: "fase1",
