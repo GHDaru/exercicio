@@ -84,7 +84,7 @@ const PhaseCard: React.FC<PhaseCardProps> = ({ phase, onStartPhase, isCurrent, i
           <button
             onClick={onStartPhase}
             className="mb-6 w-full sm:w-auto flex items-center justify-center px-5 py-2.5 bg-sky-500 text-white font-semibold rounded-lg hover:bg-sky-600 focus:outline-none focus:ring-2 focus:ring-sky-400 focus:ring-offset-2 transition-colors duration-150 ease-in-out"
-            aria-label={`Start AI interaction for ${phase.title}`}
+            aria-label={`Iniciar Interação com AI ${phase.title}`}
           >
             <RocketLaunchIcon className="w-5 h-5 mr-2" />
             {phase.status === 'completed' ? 'Review/Edit with AI' : 'Start Phase with AI'}
